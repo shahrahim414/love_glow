@@ -90,4 +90,5 @@ class DefaultFirebaseOptions {
     databaseURL: 'https://fir-c1659-default-rtdb.firebaseio.com',
     storageBucket: 'fir-c1659.firebasestorage.app',
   );
+
 }
